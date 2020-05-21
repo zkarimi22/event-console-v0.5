@@ -1,0 +1,53 @@
+{
+  "name": "newq4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@q4/nimbus-ui": "^1.6.2",
+    "draft-js": "^0.11.5",
+    "draftjs-to-html": "^0.9.1",
+    "html-to-draftjs": "^1.5.0",
+    "react": "^16.13.1",
+    "react-animated-css": "^1.2.1",
+    "react-day-picker": "^7.4.8",
+    "react-dom": "^16.13.1",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-helmet": "^6.0.0",
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "react-sidebar": "^3.0.2",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "simple-flexbox": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "ag-grid-community": "^22.1.1",
+    "fibers": "^5.0.0",
+    "node-sass": "^4.14.1",
+    "react-router-dom": "^5.2.0",
+    "sass": "^1.26.5",
+    "typescript": "^3.9.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
